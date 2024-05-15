@@ -19,7 +19,5 @@ here : [install with eXo community](https://exoplatform.github.io/guide/getting-
 ## Discussion forums
 
 Should you have questions or experience difficulties, start a discussion
-here : [eXo discussion forum](https://github.com/exoplatform/exo-community/discussions/categories/q-a).
+on [eXo Tribe](https://community.exoplatform.com).
 
-We may post announcements regarding the community edition in the
-category [Announcements](https://github.com/exoplatform/exo-community/discussions/categories/announcements) of the same forum.
